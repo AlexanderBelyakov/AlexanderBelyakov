@@ -1,5 +1,12 @@
-### Hi there 👋
+### Привет, 👋
+### Меня зовут Александр. Я frontend разработчик
 
+<h2 align="center">🌐 Контакты:</h2>
+<div align="center">
+  <a href="https://t.me/VlexvnderBel">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+  </a>
+</div>
 <!--
 **AlexanderBelyakov/AlexanderBelyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
